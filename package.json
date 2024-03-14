@@ -1,0 +1,30 @@
+{
+  "name": "react-new-hooks",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "18.3.0-canary-56e20051c-20240311",
+    "react-dom": "18.3.0-canary-56e20051c-20240311",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.48",
+    "@types/react-dom": "^18.2.21",
+    "typescript": "^5.4.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "packageManager": "yarn@4.1.1"
+}
